@@ -13,6 +13,7 @@
 - @agfidpraz
 - @cruiz24-Engineer
 - @akankshasemwal
+- @avnoor-488(https://github.com/avnoor-488)
 - [Amrita Singha Roy](https://github.com/uzumakinaruto96)
 - [Atreyo Mandal](https://github.com/Atreyo69)
 - [Tripti Rao](https://github.com/Tripti19-Rao)
